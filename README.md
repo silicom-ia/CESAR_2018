@@ -13,4 +13,9 @@ Les éléments diffusés lors de la présentation d'Olivier Gesny le 20/11/2018 
 * _CBWAR_C&ESAR_SlightDemo.7z_ (https://github.com/silicom-ia/CESAR_2018/blob/master/CBWAR_C%26ESAR_SlightDemo.7z) : la vidéo diffusée à la fin de la présentation.
 * _CBWAR_C&ESAR_FinalPresentationSilicomWithComments.pdf_ (https://github.com/silicom-ia/CESAR_2018/blob/master/CBWAR_C%26ESAR_FinalPresentationSilicomWithComments.pdf) : la version commentée de la présentation.
 
+Le programme complet de la conférence C&ESAR 2018 est disponible à l'adresse :
+* https://www.cesar-conference.org/?page_id=6
+
+Les actes et présentations sont disponibles à l'adresse :
+* https://www.cesar-conference.org/?page_id=2111
 
