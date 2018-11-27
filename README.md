@@ -16,6 +16,9 @@ Les éléments diffusés lors de la présentation d'Olivier Gesny le 20/11/2018 
 Le programme complet de la conférence C&ESAR 2018 est disponible à l'adresse :
 * https://www.cesar-conference.org/?page_id=6
 
-Les actes et présentations sont disponibles à l'adresse :
+Les actes de la conférence C&ESAR 2018 sont disponibles à l'adresse (mot de passe : ECWC&ESAR2018) :
+* https://www.european-cyber-week.eu/actespreacutesentations-cesar.html
+
+Les présentations de la conférence C&ESAR 2018 sont disponibles à l'adresse (mot de passe : ECWC&ESAR2018) :
 * https://www.cesar-conference.org/?page_id=2111
 
